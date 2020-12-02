@@ -2,16 +2,16 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+## Proof of Concept
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### The Good
 
-## Project layout
+* Github gives you a good preview of all the markdown files
+* Simple to get up and running as an iframe
+* May be possible to get something more reacty up and running 
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+### The Bad
+
+* You can't upload images through the github editor
+* Adding images has to be done with markdown
