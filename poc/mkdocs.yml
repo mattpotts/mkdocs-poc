@@ -1,0 +1,7 @@
+site_name: Docs PoC
+
+nav:
+  - Home: index.md
+  - Alfa: alfa.md
+  - Bravo: bravo.md
+  - Charlie: charlie.md
