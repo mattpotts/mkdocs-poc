@@ -1,7 +1,12 @@
 site_name: Docs PoC
 
+#theme: readthedocs
+
 nav:
   - Home: index.md
-  - Alfa: alfa.md
+  - Alfa:
+    - One: alfa/one.md
+    - Two: alfa/two.md
+    - Three: alfa/three.md
   - Bravo: bravo.md
   - Charlie: charlie.md
