@@ -1,4 +1,4 @@
-# Alfa
+# Alfa One
 
 ## Sed suo certius quis
 
