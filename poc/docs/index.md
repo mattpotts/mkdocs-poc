@@ -8,7 +8,9 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 * Github gives you a good preview of all the markdown files
 * Simple to get up and running as an iframe
-* May be possible to get something more reacty up and running 
+* May be possible to get something more reacty up and running
+* Content can be edited online
+* New pages can be edited online 
 
 
 ### The Bad
